@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:7894, Chris Brown - Show Chris Brown 21/12/2024
+#EXTINF:7894 group-title="FILMES", Chris Brown - Show Chris Brown 21/12/2024
 file:///C:/Users/Stefani/Downloads/videoplayback.mp4
-#EXTINF:176,Chris Brown - Under The Influence (Official Video).mp4
+#EXTINF:176 group-title="FILMES", Chris Brown - Under The Influence (Official Video).mp4
 file:///C:/Users/Stefani/Downloads/Chris%20Brown%20-%20Under%20The%20Influence%20(Official%20Video).mp4
-#EXTINF:229,Chris Brown - Residuals (Official Video).mp4
+#EXTINF:229 group-title="FILMES", Chris Brown - Residuals (Official Video).mp4
 file:///C:/Users/Stefani/Downloads/Chris%20Brown%20-%20Residuals%20(Official%20Video).mp4
-#EXTINF:217,Chris Brown - Feel Something (Official Video).mp4
+#EXTINF:217 group-title="FILMES", Chris Brown - Feel Something (Official Video).mp4
 file:///C:/Users/Stefani/Downloads/Chris%20Brown%20-%20Feel%20Something%20(Official%20Video).mp4
-#EXTINF:307,Chris Brown - Angel Numbers _ Ten Toes (Official Video).mp4
+#EXTINF:307 group-title="FILMES", Chris Brown - Angel Numbers _ Ten Toes (Official Video).mp4
 file:///C:/Users/Stefani/Downloads/Chris%20Brown%20-%20Angel%20Numbers%20_%20Ten%20Toes%20(Official%20Video).mp4
-#EXTINF:241,Chris Brown - Sensational (Official Video) ft. Davido, Lojay.mp4
+#EXTINF:241 group-title="FILMES", Chris Brown - Sensational (Official Video) ft. Davido, Lojay.mp4
 file:///C:/Users/Stefani/Downloads/Chris%20Brown%20-%20Sensational%20(Official%20Video)%20ft.%20Davido,%20Lojay.mp4
-#EXTINF:207,Chris Brown - Press Me.mp4
+#EXTINF:207 group-title="FILMES", Chris Brown - Press Me.mp4
 file:///C:/Users/Stefani/Downloads/Chris%20Brown%20-%20Press%20Me.mp4
-#EXTINF:226,Chris Brown - Summer Too Hot (Official Video).mp4
+#EXTINF:226 group-title="FILMES", Chris Brown - Summer Too Hot (Official Video).mp4
 file:///C:/Users/Stefani/Downloads/Chris%20Brown%20-%20Summer%20Too%20Hot%20(Official%20Video).mp4
